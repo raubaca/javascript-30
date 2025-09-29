@@ -14,3 +14,8 @@ Repository for projects in the course by [@wesbos](https://github.com/wesbos)
 | 08  | Fun with HTML5 Canvas                   |
 | 09  | 14 Must Know Dev Tools Tricks           |
 | 10  | Hold Shift to Check Multiple Checkboxes |
+| 11  | HTML5 Video Player                      |
+| 12  | Key Sequence Detection                  |
+| 13  | Slide-In Onscroll                       |
+| 14  | Object-Array Reference Vs Copy          |
+| 15  | LocalStorage                            |
