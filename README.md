@@ -19,3 +19,6 @@ Repository for projects in the course by [@wesbos](https://github.com/wesbos)
 | 13  | Slide-In Onscroll                       |
 | 14  | Object-Array Reference Vs Copy          |
 | 15  | LocalStorage                            |
+| 16  | CSS Text Shadow on Mouse Move           |
+| 17  | Sort Names without Article              |
+| 18  | Tally String Times with Reduce          |
