@@ -22,3 +22,4 @@ Repository for projects in the course by [@wesbos](https://github.com/wesbos)
 | 16  | CSS Text Shadow on Mouse Move           |
 | 17  | Sort Names without Article              |
 | 18  | Tally String Times with Reduce          |
+| 19  | Webcam Fun                              |
